@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="info">Submit Info to Home Page</string>
+    <string name="main">Intent Demo</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">FullName</string>
+    <string name="address">Address</string>
+    <string name="contact">Contact</string>
+    <string name="giveinfo">Fill Through Form</string>
+    <string name="view">Give your Github Account</string>
+</resources>
